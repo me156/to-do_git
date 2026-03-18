@@ -1,0 +1,5 @@
+def show_menu():ask")
+    print("1 Add Tasks")
+    print("2 View Tasks")
+    print("3 Delete Task")
+    print("4 Exit")
